@@ -3,9 +3,9 @@
 
 # package.json #
 
-    *配置node各种安装依赖包
-    *`scripts`下配置npm 命令 如： build ，执行npm run build  执行文件的打包压缩命令
-    *`dependencies`依赖包
+    * 配置node各种安装依赖包
+    * `scripts`下配置npm 命令 如： build ，执行npm run build  执行文件的打包压缩命令
+    * `dependencies`依赖包
 
 # webpack.config.js #
 
