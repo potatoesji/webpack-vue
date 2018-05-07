@@ -9,7 +9,7 @@
 
 # webpack.config.js #
 
-`## webpack配置文件`
+`## webpack配置文件 ##`
 *    `const require引入获取import引入`
 *    `const  isDev =process.env.NODE_ENV === "development";` 判断执行环境
 *    `const config={}` 配置文本pack  其中：`entry`为入口文件 `output`为出口文件 `module`为各种配置规则 `plugins`为webpack中用到的插件
